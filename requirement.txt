@@ -1,0 +1,2 @@
+wechat-sdk==0.6.1
+flask==0.10.1
